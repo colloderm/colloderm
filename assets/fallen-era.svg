@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img" aria-label="FallenEra, 1인칭 멀티플레이 생존 크래프팅">
+<defs><linearGradient id="h" x1="0" x2="1"><stop offset="0" stop-color="#22a052"/><stop offset="1" stop-color="#22a052" stop-opacity=".25"/></linearGradient></defs>
+<rect x=".5" y=".5" width="419" height="239" rx="10" fill="#1b1e24" stroke="#2c3038"/>
+<path d="M10 .5H410a9.5 9.5 0 0 1 9.5 9.5V46H.5V10A9.5 9.5 0 0 1 10 .5z" fill="url(#h)"/>
+<text x="18" y="31" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="21" font-weight="800" fill="#fff">ƒ  FallenEra</text>
+<rect x="330" y="13" width="74" height="22" rx="11" fill="#0e1014" fill-opacity=".55"/>
+<text x="367.0" y="29" text-anchor="middle" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#fff">개발 중</text>
+<text x="18" y="74" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12.5" fill="#8b93a1">Target is <tspan font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" fill="#c3cad4">1인칭 멀티플레이 생존 크래프팅</tspan></text>
+<circle cx="28" cy="108" r="4.5" fill="#22a052"/><text x="42" y="113" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" fill="#e6edf3">소켓 스냅 모듈러 건설과 서버 재검증</text><circle cx="28" cy="138" r="4.5" fill="#22a052"/><text x="42" y="143" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" fill="#e6edf3">다익스트라 지지 거리와 연쇄 붕괴</text><circle cx="28" cy="168" r="4.5" fill="#22a052"/><text x="42" y="173" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" fill="#e6edf3">GAS 피해 경로를 쓰는 함정과 발리스타</text>
+<path d="M18 196H402" stroke="#2c3038"/>
+<text x="18" y="221" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" fill="#22a052">C++ · GAS · Replication</text>
+<text x="402" y="221" text-anchor="end" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="13" fill="#8b93a1">자세히 보기 →</text>
+</svg>

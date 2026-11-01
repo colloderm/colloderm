@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-label="김진호, Unreal Engine 5 클라이언트 프로그래머">
+<style>
+.w{fill:none;stroke:#fff;stroke-width:2.5}
+.p{fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-dasharray:14 400;animation:run 2.4s linear infinite}
+@keyframes run{from{stroke-dashoffset:14}to{stroke-dashoffset:-400}}
+@media (prefers-reduced-motion:reduce){.p{display:none}}
+</style>
+<defs><pattern id="g" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#20232a" stroke-width="1"/></pattern>
+<pattern id="G" width="128" height="128" patternUnits="userSpaceOnUse"><rect width="128" height="128" fill="url(#g)"/><path d="M128 0H0V128" fill="none" stroke="#2a2e37" stroke-width="1"/></pattern></defs>
+<rect width="880" height="270" rx="12" fill="#14161b"/><rect width="880" height="270" rx="12" fill="url(#G)"/>
+<text x="24" y="32" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" fill="#7d8592">BP_KimJinho  ›  Event Graph</text>
+<text x="856" y="32" text-anchor="end" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" fill="#4b525d">BLUEPRINT</text>
+<!-- 이벤트 노드 -->
+<g transform="translate(40,104)">
+ <rect width="210" height="74" rx="8" fill="#1d2027" stroke="#000" stroke-opacity=".6"/>
+ <path d="M8 0H202a8 8 0 0 1 8 8V30H0V8a8 8 0 0 1 8-8z" fill="#8c1d1d"/>
+ <text x="14" y="21" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" font-weight="700" fill="#fff">◆ Event BeginPlay</text>
+ <path d="M188 46l10 7-10 7z" fill="#fff"/>
+</g>
+<!-- 연결선 -->
+<path class="w" d="M240 157C300 157 290 120 350 120"/>
+<path class="p" d="M240 157C300 157 290 120 350 120"/>
+<!-- 소개 노드 -->
+<g transform="translate(350,60)">
+ <rect width="490" height="176" rx="8" fill="#1d2027" stroke="#000" stroke-opacity=".6"/>
+ <path d="M8 0H482a8 8 0 0 1 8 8V34H0V8a8 8 0 0 1 8-8z" fill="#1f4f8f"/>
+ <text x="16" y="23" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" font-weight="700" fill="#fff">ƒ  Hello, World</text>
+ <text x="474" y="23" text-anchor="end" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#bcd3f5">Target is Game Client</text>
+ <path d="M-2 53l10 7-10 7z" fill="#fff"/>
+ <text x="22" y="92" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="34" font-weight="800" fill="#fff">김진호 <tspan font-size="22" font-weight="600" fill="#9aa3b0">Kim Jinho</tspan></text>
+ <text x="22" y="122" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="16" fill="#c9d1db">Unreal Engine 5 클라이언트 프로그래머</text>
+ <circle cx="27" cy="150" r="5" fill="#22a052"/>
+ <text x="40" y="155" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif" font-size="15" fill="#e6edf3">플레이어가 믿고 즐길 수 있는 게임 시스템을 만듭니다</text>
+</g>
+</svg>
